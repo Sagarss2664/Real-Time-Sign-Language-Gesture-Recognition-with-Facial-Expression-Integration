@@ -65,17 +65,16 @@ This project presents a real-time multimodal sign language recognition system th
 - Deploy on mobile devices for accessible sign language translation.
 
 ## Contributors
-- Vishwanath Hubballi
 - Sagar Shegunashi
+- Vishwanath Hubballi
 - Shreyas Rawate
 - K. Koushik Kumar Reddy
-- Channabasappa Muttal
 
 ## Citation
 If you use this work, please cite:
 ```
 @article{SignLanguage2025,
-  author    = {Vishwanath Hubballi, Sagar Shegunashi, Shreyas Rawate, K. Koushik Kumar Reddy, Channabasappa Muttal},
+  author    = {Sagar Shegunashi,Vishwanath Hubballi, K. Koushik Kumar Reddy, Channabasappa Muttal},
   title     = {Real-Time Sign Language Gesture Recognition with Facial Expression Integration},
   journal   = {ML Springer},
   year      = {2025}
