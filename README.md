@@ -70,17 +70,4 @@ This project presents a real-time multimodal sign language recognition system th
 - Shreyas Rawate
 - K. Koushik Kumar Reddy
 
-## Citation
-If you use this work, please cite:
-```
-@article{SignLanguage2025,
-  author    = {Sagar Shegunashi,Vishwanath Hubballi, K. Koushik Kumar Reddy, Channabasappa Muttal},
-  title     = {Real-Time Sign Language Gesture Recognition with Facial Expression Integration},
-  journal   = {ML Springer},
-  year      = {2025}
-}
-```
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
 
